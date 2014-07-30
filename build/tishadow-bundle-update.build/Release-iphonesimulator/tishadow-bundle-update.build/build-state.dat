@@ -1,0 +1,784 @@
+Ttishadow-bundle-update
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a normal i386
+cLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a normal x86_64
+cCreateUniversalBinary /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a normal i386\ x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053A83A2100000000000003B4
+t1403533857
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053A83A24000000000000019E
+t1403533860
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053A83A26000000000088D8C0
+t1403533862
+s8968384
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.h
+c0000000053C7F70B0000000000000154
+t1405613835
+s340
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m
+c0000000053D903550000000000002FDD
+t1406731093
+s12253
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.h
+c0000000053C3C63A00000000000000DE
+t1405339194
+s222
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m
+c0000000053C3C63A000000000000026E
+t1405339194
+s622
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.h
+c000000005340E56400000000000007B1
+t1396761956
+s1969
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m
+c000000005340E5640000000000004C26
+t1396761956
+s19494
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/crypt.h
+c000000005340E5640000000000001297
+t1396761956
+s4759
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c
+c000000005340E5640000000000001E08
+t1396761956
+s7688
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+c000000005340E5640000000000001ACB
+t1396761956
+s6859
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c
+c000000005340E56400000000000021D9
+t1396761956
+s8665
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.h
+c000000005340E56400000000000002A5
+t1396761956
+s677
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c
+c000000005340E5640000000000011940
+t1396761956
+s72000
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+c000000005340E5640000000000003FE6
+t1396761956
+s16358
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c
+c000000005340E564000000000001040E
+t1396761956
+s66574
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.h
+c000000005340E5640000000000003C07
+t1396761956
+s15367
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch
+c0000000053C3C63A000000000000003E
+t1405339194
+s62
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a
+t1406730021
+s518888
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdate.LinkFileList
+c0000000053C63B0900000000000005AB
+t1405500169
+s1451
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o
+t1406731106
+s42136
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o
+t1405351960
+s5164
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o
+t1405500170
+s50256
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o
+t1405500169
+s13972
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a
+t1406731106
+s241880
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o
+t1405500169
+s11980
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o
+t1405500170
+s52028
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o
+t1405500170
+s63256
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdate.LinkFileList
+c0000000053C63B0900000000000005B9
+t1405500169
+s1465
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o
+t1406731106
+s48380
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o
+t1405351960
+s5968
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o
+t1405500170
+s59924
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o
+t1405500169
+s15316
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a
+t1406731106
+s276064
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o
+t1405500170
+s13308
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o
+t1405500170
+s57160
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o
+t1405500170
+s72920
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/Bridge.h
+c0000000052EBE0420000000000000268
+t1391190082
+s616
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollCallback.h
+c0000000053D8F0460000000000000AA8
+t1406726214
+s2728
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollContext.h
+c0000000052EBE04200000000000013B2
+t1391190082
+s5042
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollObject.h
+c0000000052EBE0420000000000000D7F
+t1391190082
+s3455
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBase.h
+c0000000052EBE0420000000000004C46
+t1391190082
+s19526
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBindingRunLoop.h
+c0000000052EBE042000000000000058B
+t1391190082
+s1419
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBlob.h
+c0000000052EBE0420000000000000B0A
+t1391190082
+s2826
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBuffer.h
+c0000000052EBE04200000000000005EF
+t1391190082
+s1519
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiColor.h
+c0000000052EBE0420000000000000496
+t1391190082
+s1174
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/Ti.h
+c0000000052EBE0420000000000000721
+t1391190082
+s1825
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiBase.h
+c0000000052EBE04200000000000019E1
+t1391190082
+s6625
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRef.h
+c0000000052EBE04200000000000014DD
+t1391190082
+s5341
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000052EBE0420000000000000990
+t1391190082
+s2448
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiCore.h
+c0000000052EBE04200000000000006A0
+t1391190082
+s1696
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiObjectRef.h
+c0000000052EBE0420000000000009462
+t1391190082
+s37986
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRef.h
+c0000000052EBE04200000000000016E7
+t1391190082
+s5863
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRefCF.h
+c0000000052EBE0420000000000000A40
+t1391190082
+s2624
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiValueRef.h
+c0000000052EBE042000000000000323B
+t1391190082
+s12859
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/WebKitAvailability.h
+c0000000052EBE04200000000000080D1
+t1391190082
+s32977
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiDimension.h
+c0000000052EBE0420000000000000FF5
+t1391190082
+s4085
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiEvaluator.h
+c0000000052EBE04200000000000004D5
+t1391190082
+s1237
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiFile.h
+c0000000052EBE0420000000000000680
+t1391190082
+s1664
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiHost.h
+c0000000052EBE0420000000000000532
+t1391190082
+s1330
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiModule.h
+c0000000052EBE0420000000000000736
+t1391190082
+s1846
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiProxy.h
+c0000000052EBE0420000000000002B9A
+t1391190082
+s11162
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPublicAPI.h
+c0000000052EBE0420000000000000A67
+t1391190082
+s2663
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiStylesheet.h
+c0000000052EBE04200000000000002CB
+t1391190082
+s715
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiThreading.h
+c0000000052EBE04200000000000008EF
+t1391190082
+s2287
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUtils.h
+c0000000052EBE0420000000000005565
+t1391190082
+s21861
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/WebFont.h
+c0000000052EBE0420000000000000A25
+t1391190082
+s2597
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/defines.h
+c0000000052EBE0420000000000000C4C
+t1391190082
+s3148
+
+N/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch
+t1405500169
+s118352
+
+N/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch
+t1405351960
+s3236996
+
+N/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch
+t1405500169
+s119304
+
+N/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch
+t1405351960
+s3233200
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies98a28ce23a89b941^0630a5e23a89b941^---0#1#1#--18"Check dependencies36"0A096675-72BA-46DE-96CE-2B4D81357DF0-
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428423906.649077
+e428423906.853123
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiProxy.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/defines.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiThreading.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPublicAPI.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiEvaluator.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollContext.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiCore.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/Ti.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiObjectRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiValueRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/WebKitAvailability.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRefCF.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollCallback.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollObject.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBindingRunLoop.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUtils.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiDimension.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiColor.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/WebFont.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiFile.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBuffer.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBlob.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiHost.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/Bridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m260"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o Classes/MaCarTishadowBundleUpdateModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5e4da6e23a89b941^3067dae23a89b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m0000000000000000^4819"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o Classes/MaCarTishadowBundleUpdateModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModule.o36"E3410559-4C6C-4A60-95D0-6EA2C1B29AA2-
+bBEE0E38A-D66D-4FA1-802B-8F0A5A2C9C28
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427044760.601791
+e427044760.631831
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m272"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o Classes/MaCarTishadowBundleUpdateModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler31259a982f74b941^44c0a1982f74b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m0000000000000000^4855"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o Classes/MaCarTishadowBundleUpdateModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdateModuleAssets.o36"E949EBB9-A44D-435A-9BCA-694EDC23BB13-
+b0B9DF827-B679-438D-AB72-94FD6A74119B
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.850731
+e427192970.053429
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m235"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o Classes/SSZipArchive/SSZipArchive.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85ebd9897276b941^daad0d8a7276b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m0000000000000000^4731"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o Classes/SSZipArchive/SSZipArchive.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/SSZipArchive.o36"B432395A-A4E0-4100-BE2B-9CBF8D10AF18-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.849254
+e427192969.966601
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c219"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o Classes/SSZipArchive/minizip/ioapi.c normal i386 c com.apple.compilers.llvm.clang.1_0.compilered7ed9897276b941^6d73f7897276b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c0000000000000000^4448"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o Classes/SSZipArchive/minizip/ioapi.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/ioapi.o36"84D431B2-D8D2-41BC-AEB7-C1684A3D3A5F-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.850536
+e427192969.982722
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c223"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o Classes/SSZipArchive/minizip/mztools.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler11dfd9897276b941^8594fb897276b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c0000000000000000^4460"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o Classes/SSZipArchive/minizip/mztools.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/mztools.o36"1713D7EE-26EC-400D-B9B7-49EF29D20F0F-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.849410
+e427192970.165869
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/crypt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c219"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o Classes/SSZipArchive/minizip/unzip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler2386d9897276b941^b4772a8a7276b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c0000000000000000^4448"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o Classes/SSZipArchive/minizip/unzip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/unzip.o36"D0F0134A-70D2-4C2B-9CD3-D2211DDF9BD7-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.850269
+e427192970.215732
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/crypt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c215"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o Classes/SSZipArchive/minizip/zip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler0dc1d9897276b941^973b378a7276b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c0000000000000000^4436"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o Classes/SSZipArchive/minizip/zip.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/zip.o36"9E6AEDCD-343E-4AC9-B025-DABB80EAFD13-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428423906.650262
+e428423906.852558
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiProxy.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/defines.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiThreading.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPublicAPI.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiEvaluator.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollContext.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiCore.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/Ti.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiObjectRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiValueRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/WebKitAvailability.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRefCF.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollCallback.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollObject.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBindingRunLoop.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUtils.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiDimension.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiColor.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/WebFont.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiFile.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBuffer.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBlob.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiHost.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/Bridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiStylesheet.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m264"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o Classes/MaCarTishadowBundleUpdateModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e96a6e23a89b941^8141dae23a89b941^---0#0#1#-19%DVTDocumentLocation2@130"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m0000000000000000^4830"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o Classes/MaCarTishadowBundleUpdateModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModule.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModule.o36"5E436C4F-FE45-46D1-B9CD-153E271432C0-
+bBEE0E38A-D66D-4FA1-802B-8F0A5A2C9C28
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427044760.602214
+e427044760.631176
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m276"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o Classes/MaCarTishadowBundleUpdateModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler41489a982f74b941^4695a1982f74b941^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m0000000000000000^4866"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o Classes/MaCarTishadowBundleUpdateModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/MaCarTishadowBundleUpdateModuleAssets.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdateModuleAssets.o36"35B24A0C-0BD3-4969-8EB3-FFC50C641489-
+b0B9DF827-B679-438D-AB72-94FD6A74119B
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427192970.053998
+e427192970.176749
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m239"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o Classes/SSZipArchive/SSZipArchive.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler9df10d8a7276b941^79402d8a7276b941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m0000000000000000^4742"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o Classes/SSZipArchive/SSZipArchive.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/SSZipArchive.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/SSZipArchive.o36"A5DC2ABA-8EAE-4F04-9229-376C63F259CE-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.851443
+e427192969.965412
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c223"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o Classes/SSZipArchive/minizip/ioapi.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compileraa2cda897276b941^c70df7897276b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c0000000000000000^4459"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o Classes/SSZipArchive/minizip/ioapi.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/ioapi.o36"3B2B4BF0-3F87-4ECA-BA2D-8678DE458405-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.983758
+e427192970.078288
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c227"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o Classes/SSZipArchive/minizip/mztools.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6afbfb897276b941^780b148a7276b941^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c0000000000000000^4471"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o Classes/SSZipArchive/minizip/mztools.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/mztools.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/mztools.o36"A6C9A29D-B02F-4CA7-863D-E90E147DFBF3-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.851838
+e427192970.150884
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/crypt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c223"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o Classes/SSZipArchive/minizip/unzip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler5d36da897276b941^85b0268a7276b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c0000000000000000^4459"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o Classes/SSZipArchive/minizip/unzip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/unzip.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/unzip.o36"AEFC79B2-0778-4710-BEC6-C51EDDCF2E56-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.966794
+e427192970.270737
+r1
+xCompileC
+xbuild/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/ioapi.h
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/crypt.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c219"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o Classes/SSZipArchive/minizip/zip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler6f9df7897276b941^6550458a7276b941^---0#0#1#-19%DVTDocumentLocation2@123"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c0000000000000000^4447"CompileC build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o Classes/SSZipArchive/minizip/zip.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/Classes/SSZipArchive/minizip/zip.c -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/zip.o36"FA152460-CC07-4CDC-BC26-41FF2C352285-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CCreateUniversalBinary /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a normal i386\ x86_64
+s428423906.864535
+e428423906.876863
+r1
+xCreateUniversalBinary
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection166"Create universal binary /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a102"CreateUniversalBinary build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a normal i386\ x86_64f162dde23a89b941^9a7be0e23a89b941^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a0000000000000000^1289"CreateUniversalBinary build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a normal i386\ x86_64    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/libMaCarTishadowBundleUpdate.a36"FDD341E7-9063-4A50-892B-00EB788B2028-
+bBEE0E38A-D66D-4FA1-802B-8F0A5A2C9C28
+
+CLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a normal i386
+s428423906.853722
+e428423906.863412
+r1
+xLibtool
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Libtool build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a normal i386158"Libtool build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a normal i386eca0dae23a89b941^950bdde23a89b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1546"Libtool build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a normal i386    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -filelist /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/MaCarTishadowBundleUpdate.LinkFileList -ObjC -framework Foundation -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/i386/libMaCarTishadowBundleUpdate.a36"6A6E6676-D19A-41B0-BB47-BF084DE5A03D-
+bBEE0E38A-D66D-4FA1-802B-8F0A5A2C9C28
+
+CLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a normal x86_64
+s428423906.854244
+e428423906.864157
+r1
+xLibtool
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection162"Libtool build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a normal x86_64162"Libtool build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a normal x86_646abedae23a89b941^603edde23a89b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1556"Libtool build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a normal x86_64    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -filelist /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/MaCarTishadowBundleUpdate.LinkFileList -ObjC -framework Foundation -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/Objects-normal/x86_64/libMaCarTishadowBundleUpdate.a36"A476BEC6-2163-45F9-B52C-6C0B78A42929-
+bBEE0E38A-D66D-4FA1-802B-8F0A5A2C9C28
+
+CProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.834146
+e427192969.848659
+r1
+xProcessPCH
+x/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch
+xMaCarTishadowBundleUpdate_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MaCarTishadowBundleUpdate_Prefix.pch326"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compilerc9add5897276b941^3544d9897276b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch0000000000000000^4401"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.d -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch -o /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-byhbruznggaesiapvmreyjxjgsgq/MaCarTishadowBundleUpdate_Prefix.pch.pch36"C727DA8D-9CEE-4FE9-BE3F-FA247081B762-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427044760.354039
+e427044760.595865
+r1
+xProcessPCH
+x/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch
+xMaCarTishadowBundleUpdate_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MaCarTishadowBundleUpdate_Prefix.pch338"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2c15a982f74b941^118b98982f74b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch0000000000000000^4661"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.d -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch -o /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-esragtslvjiucxcmmaqlqzcganld/MaCarTishadowBundleUpdate_Prefix.pch.pch36"D9EB1D47-A08A-46DF-B8B2-0F5861492CBC-
+b0B9DF827-B679-438D-AB72-94FD6A74119B
+
+CProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s427192969.834639
+e427192969.848632
+r1
+xProcessPCH
+x/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch
+xMaCarTishadowBundleUpdate_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MaCarTishadowBundleUpdate_Prefix.pch328"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compilerc7bdd5897276b941^f23fd9897276b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch0000000000000000^4404"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.d -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch -o /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-fjnpkeusnltidebjgzconrvlfxih/MaCarTishadowBundleUpdate_Prefix.pch.pch36"17CFF71D-70E9-4B3B-B37D-4CB0C1BD980C-
+b35F2DF2B-F013-42D0-960B-6B42AFD3678D
+
+CProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427044760.353718
+e427044760.601023
+r1
+xProcessPCH
+x/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch
+xMaCarTishadowBundleUpdate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile MaCarTishadowBundleUpdate_Prefix.pch336"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ec15a982f74b941^3cdd99982f74b941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch0000000000000000^4658"ProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch MaCarTishadowBundleUpdate_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/MaCarTishadowBundleUpdate-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/tishadow-bundle-update.build/Release-iphonesimulator/tishadow-bundle-update.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.d -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/tishadow-bundle-update/MaCarTishadowBundleUpdate_Prefix.pch -o /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTishadowBundleUpdate_Prefix-flevpieofpsqnxeazatafcxfrjpp/MaCarTishadowBundleUpdate_Prefix.pch.pch36"5694972A-48A6-4740-9A88-5B047290C66B-
+b0B9DF827-B679-438D-AB72-94FD6A74119B
+

@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: vincent
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: tishadow-bundle-update
+moduleid: ma.car.tishadow.bundle.update
+guid: e80f36f5-f659-41c1-8340-39fddac79ed7
+platform: iphone
+minsdk: 3.2.1.Alpha
